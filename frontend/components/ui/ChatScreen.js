@@ -14,7 +14,7 @@ import io from "socket.io-client";
 import { Ionicons } from "@expo/vector-icons";
 import { useLocalSearchParams } from "expo-router";
 
-const socket = io("https://chat-app-c0ei.onrender.com"); 
+const socket = io("https://chat-app-uxdn.onrender.com"); 
 
 export default function ChatScreen() {
   const [message, setMessage] = useState("");
