@@ -38,7 +38,7 @@ A **realtime chat application** built with **React Native**, **Socket.IO**, and 
 
 ## 📽 Demo
 
-<video src="assets/WhatsApp Video 2025-04-24 at 18.52.19_17b24444.mp4" controls width="600"></video>
+[![Demo](frontend/assests/WhatsApp Video 2025-04-24 at 18.52.19_17b24444.mp4)]
 
 ---
 
